@@ -167,7 +167,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 616}
   m_MaxSize: {x: 10002, y: 18066}
   vertical: 1
-  controlID: 34
+  controlID: 86
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 1
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -373,9 +373,9 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -443,9 +443,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1.7636013, y: 0.1310001, z: -10.967346}
+    m_Target: {x: 0.06364542, y: 0.80185753, z: -30.69895}
     speed: 2
-    m_Value: {x: 1.7636013, y: 0.1310001, z: -10.967346}
+    m_Value: {x: 0.079693764, y: 0.871243, z: -30.675215}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -478,9 +478,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 4.813717
+    m_Target: 6.3029766
     speed: 2
-    m_Value: 4.813717
+    m_Value: 6.5999756
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -675,7 +675,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 14096
+  m_LastSelectedObjectID: 14940
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -715,34 +715,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Fases
+    - Assets/Sprites/Tileset
   m_ViewMode: 1
   m_StartGridSize: 54
   m_LastFolders:
-  - Assets/Scenes/Fases
+  - Assets/Sprites/Tileset
   m_LastFoldersGridSize: 54
-  m_LastProjectPath: C:\Users\Roberto\Desktop\DIPLOMA RUSH\TCC_FIEO019\DIPLOMA RUSH
+  m_LastProjectPath: C:\Users\Roberto\Desktop\TCC\TCC_FIEO19\DIPLOMA RUSH
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 10350000
-    m_LastClickedID: 13584
-    m_ExpandedIDs: 00000000a62e00000634000000ca9a3b
+    scrollPos: {x: 0, y: 119}
+    m_SelectedIDs: e8330000
+    m_LastClickedID: 13288
+    m_ExpandedIDs: 000000003a2d0000ee33000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Chefoes
-      m_OriginalName: Chefoes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 12438
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
@@ -756,7 +756,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a62e000006340000
+    m_ExpandedIDs: 000000003a2d00009a320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -783,8 +783,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000d2310000000000000a3400003a7e00009a31000066310000aa2d0000d2330000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000d2310000000000000a3400003a7e00009a31000066310000aa2d0000d2330000ae2d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -841,9 +841,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 10370000
-      m_LastClickedID: 14096
-      m_ExpandedIDs: 3efbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 00f8ffff8ef8ffffe6f8ffff74fbffffa6390000363a0000843a0000b23a0000b63a0000203b0000643b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
